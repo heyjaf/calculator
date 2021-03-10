@@ -1,2 +1,0 @@
-# calculator
-calculator test task
